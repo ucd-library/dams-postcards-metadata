@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1207676"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:creator": "Vibe, Fritz",
+  "schema:description": "\"Built by Davis High School Students. Bicycles are a symbol of great interest in Davis, possibly 99.99% of the University of California students have bikes. Student populatioon aproximately 27,000. Automobiles beware.\"",
+  "schema:identifier": [
+    "ark:/87293/d3k64b09s",
+    "D-473, Box:8, Folder:19 & AR-181, Box:1, Folder: 108"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-473_08_019_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "The Big Bike, Davis - California",
+  "schema:publisher": "Woodhams Enterprises Inc. 4335 Orange Grove Ave, Sacramento, CA 95841"
+}

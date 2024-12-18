@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:description": "\"Houses several biological sciences departments on the Davis campus of the University of California.\"",
+  "schema:identifier": [
+    "AR-181, Box:1, Folder:94",
+    "ark:/87293/d3zk55t54"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/AR-181_01_094_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Hutchison Hall",
+  "schema:publisher": "Eastman's Studio"
+}

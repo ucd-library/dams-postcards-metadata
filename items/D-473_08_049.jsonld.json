@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1207676"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:creator": "Myers, Tom",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#year",
+    "@value": "1965"
+  },
+  "schema:description": "\"Students, faculty and staff gather for a quick lunch at The Silo, one of the campus' favorite eating establishments. Built in 1908, it includes the UC Davis Bike Barn, Craft Center, and Law Bookstore.\"",
+  "schema:identifier": [
+    "ark:/87293/d3pv6bf0h",
+    "D-473, Box:8, Folder:49"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-473_08_049_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "The Silo",
+  "schema:publisher": "Published by Scope Enterprises PO Box 85 Clovis, CA 93613"
+}

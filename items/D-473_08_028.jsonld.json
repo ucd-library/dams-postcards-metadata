@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1207676"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:creator": "McMahan, John",
+  "schema:description": "\"Four blocks from University of California, Davis. 31 single and family units, kitchens available, TV - Heated Poool - Phones - Individually controlled air-conditioning and heating. Restaurant on premises.\"",
+  "schema:identifier": [
+    "D-473, Box:8, Folder:28",
+    "ark:/87293/d3dj58p8q"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-473_08_028_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Davis Motel, Davis, Calif. Interstate 80 at Davis Turn-Off"
+}

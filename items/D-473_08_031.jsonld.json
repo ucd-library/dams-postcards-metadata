@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/fast:549782"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:description": "\"The University Transport System owns nine of these imported London double deck buses. This unique system is owned and operated by the Associated Students of UC Davis Campus and servers the UC Davis Campus and the City of Davis with a regularly scheduled bus service during the school year.\"",
+  "schema:identifier": [
+    "D-473, Box:8, Folder:31",
+    "ark:/87293/d31834878"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-473_08_031_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Unitran [sic] Bus, Davis, CA. ",
+  "schema:publisher": "Scope Enterprises. PO Box 85 Clovis, CA"
+}

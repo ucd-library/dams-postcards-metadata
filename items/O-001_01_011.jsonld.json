@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214190"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:description": "\"The Great Yolo Basin Trestle, bridges three miles of marsh lands and unites the east and west sides of the Sacramento valley. The Yolo Basin, a vast marshy district extends from a point 15 miles north of Marysville, south for a distance of over 120 miles. The basin is flooded annually for a eriod of from six to eight months, and prior to the construction of the Trestle in 1916, the Capitol City of California by vehicle, as only during the summer months were the lands dried out sufficiently to permit travel, by what was known as the 'Tule Jake.' road.\"",
+  "schema:identifier": [
+    "ark:/87293/d3154dw4j",
+    "O-001, Box:1, Folder:11"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/O-001_01_011_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Causeway over Yolo Basin between Sacramento and Davis, California",
+  "schema:publisher": "Frank McDougall, Sacramento, Calif"
+}

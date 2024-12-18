@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:creator": "Riggens, Dean",
+  "schema:description": "\"Originally known as an agricultural school. Since has become quite diversified. Offering courses in medicine, law, veterinary medicines and others. Annual attendance approximately 17,000.\"",
+  "schema:identifier": [
+    "AR-181, Box:1, Folder:105",
+    "ark:/87293/d3jd4pw7c"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/AR-181_01_105_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Aerial view, University of California, Davis. ",
+  "schema:publisher": "Fritz Vibe"
+}

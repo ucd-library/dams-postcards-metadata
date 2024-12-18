@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:creator": "Woodhams, Susan",
+  "schema:description": "\"Students, faculty and staff gather for a quick lunch at the Silo, one of the campus's favorite eating establishments. Completed in 1908, the Silo was one of the first structures built on the UC Davis campus (then called the \"University Farm\").\"",
+  "schema:identifier": [
+    "ark:/87293/d3028pm2g",
+    "AR-181, Box:1, Folder:1"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/AR-181_01_001_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Silo, North Side. ",
+  "schema:publisher": "Published by Woodhams Enterprises, 8590 Younger Creek Drive, Sacramento, CA 95828"
+}
