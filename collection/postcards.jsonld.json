@@ -35,7 +35,7 @@
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "2024"
+    "@value": "2025"
   },
   "schema:description": "The Regional Postcard Collection is comprised of postcards of the City of Davis and the UC Davis campus. The images capture street scenes, civic institutions, landmarks, hotels, restaurants, and campus buildings.\n\n The postcards, which were produced during the decades of 1910-2000, are drawn from the following collections:\n\n D-473 John Lofland Papers\n\n O-001 Postcard Collection\n\n AR-181 Postcards of UC Davis",
   "schema:identifier": [
@@ -57,7 +57,7 @@
   ],
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "2024"
+    "@value": "2025"
   },
   "schema:sdLicense": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
