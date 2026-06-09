@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "School of Veterinary Medicine, University of California at Davis",
+  "schema:description": "From an original pen and ink sketch by F. Newton Weber",
+  "schema:datePublished": "undated",
+  "schema:identifier": [
+    "ark:/87293/d3610w285",
+    "AR-181, Box:2, Folder:27"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/AR-181_02_27_0001.tif"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "University Lodge 123 B Street, Davis, Calif. 95616.  (916) 756-7890 \"34 luxurious rooms - Social Suite - Color TV - Air Conditioned - Direct Dial Phones - Courtesy Coffee - Near the Center of Davis, The City of Trees and 18,000 Bicycles - One Block East of the University of California Campus -- Sambo's 24 hr Restaurant - Adjacent.\"",
+  "schema:publisher": "Mike Roberts, Berkeley",
+  "schema:identifier": [
+    "ark:/87293/d3wm1442h",
+    "O-001, Box:1, Folder:48"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/O-001_01_48_0001.tif"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1207676"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    }
+  ]
+}

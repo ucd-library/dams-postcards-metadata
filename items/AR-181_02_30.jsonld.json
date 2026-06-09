@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Foot bridge over Bicycle Path",
+  "schema:publisher": "Fritz Vibe Postcard Service",
+  "schema:description": "University of California at Davis. Foot bridge over bicycle path between Olsen [sic, Olson] Hall and College Library. Color photo by Fred M. Shorthill",
+  "schema:datePublished": "undated",
+  "schema:identifier": [
+    "ark:/87293/d3st7f69x",
+    "AR-181, Box:2, Folder:30"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/AR-181_02_30_01.tif"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1726707"
+    }
+  ]
+}
