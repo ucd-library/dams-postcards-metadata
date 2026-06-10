@@ -21,13 +21,12 @@
   },
   "schema:name": "Album of Views of the State Farm at Davis, California: Dairy Barn, University Farm, Davis, Cal",
   "schema:publisher": "Edward M. Mitchell, San Francisco",
-  "schema:datePublished": "undated",
   "schema:identifier": [
     "ark:/87293/d3zk55x21",
     "AR-181, Box:2, Folder:22h"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/AR-181_02_22_0009.tif"
+    "@id": "@base:/media/images/AR-181_02_22_0021.tif"
   },
   "schema:about": [
     {

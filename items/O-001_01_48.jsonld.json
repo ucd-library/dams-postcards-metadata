@@ -19,7 +19,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "University Lodge 123 B Street, Davis, Calif. 95616.  (916) 756-7890 \"34 luxurious rooms - Social Suite - Color TV - Air Conditioned - Direct Dial Phones - Courtesy Coffee - Near the Center of Davis, The City of Trees and 18,000 Bicycles - One Block East of the University of California Campus -- Sambo's 24 hr Restaurant - Adjacent.\"",
+  "schema:name": "University Lodge 123 B Street, Davis, Calif. 95616.  (916) 756-7890",
+  "schema:description": "34 luxurious rooms - Social Suite - Color TV - Air Conditioned - Direct Dial Phones - Courtesy Coffee - Near the Center of Davis, The City of Trees and 18,000 Bicycles - One Block East of the University of California Campus -- Sambo's 24 hr Restaurant - Adjacent.",
   "schema:publisher": "Mike Roberts, Berkeley",
   "schema:identifier": [
     "ark:/87293/d3wm1442h",
