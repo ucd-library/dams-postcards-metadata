@@ -14,7 +14,7 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:position": "01",
-  "ebucore:filename": "AR-181_02_22_0003.tif",
+  "schema:position": "02",
+  "ebucore:filename": "AR-181_02_022_0003_verso.tif",
   "ebucore:hasMimeType": "image/tiff"
 }
